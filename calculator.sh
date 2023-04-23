@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Simple calculator function
+
 # Addition
 add = a+b
 
